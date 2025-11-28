@@ -887,4 +887,6 @@ PREF_MARKOV_NUM_NEXT_STATES              8
 PREF_MARKOV_SEND_ON_PREF_HIT             TRUE                            
 PREF_MARKOV_UPDATE_ON_PREF_HIT           TRUE                            
 PREF_MARKOV_TABLE_UPDATE_POLICY          0                               
-PREF_MARKOV_SEND_THRESHOLD               0                               
+PREF_MARKOV_SEND_THRESHOLD               0   
+PREF_BINGO_ON                            FALSE   
+DEBUG_PREF_BINGO                         FALSE                         
